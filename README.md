@@ -34,6 +34,3 @@ This script provides basic car control functionality in a Unity game. It allows 
 
 Note: The script assumes that the player game object has an active state that controls its visibility and interaction.
 
-**Disclaimer:**
-
-I did not write this code. This code was provided to me, and I have created this readme file to explain its functionality.
